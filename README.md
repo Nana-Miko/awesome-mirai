@@ -63,6 +63,7 @@
 - [Mirai-js](https://github.com/drinkal/Mirai-js) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行在 node.js 平台下的 Mirai 机器人框架。
 - [STDSuperman/QQRobot](https://github.com/STDSuperman/QQRobot) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 运行与 node.js 平台下，提供 QQ 多群消息转发能力；群内关键字触发彩虹屁、舔狗日记自动发送；基于 [khjxiaogu/MiraiSongPlugin](https://github.com/khjxiaogu/MiraiSongPlugin) 实现群内点歌能力；支持群内群员投票踢人能力。
 - [LGTBot-Mirai](https://github.com/slontia/lgtbot-mirai) 基于 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 和 [mirai-cpp SDK](https://github.com/cyanray/mirai-cpp) 的游戏裁判机器人，支持私信机器人和在群内 at 机器人两种游戏方式，支持战绩持久化记录。截止 2022-01-01，已经实现了 8 款不同规则的游戏。
+- [ChatLearning](https://github.com/Nana-Miko/ChatLearning)基于[mirai-api-http](https://github.com/project-mirai/mirai-api-http)让bot学习你的群聊
 
 ## 其他优秀项目
 
